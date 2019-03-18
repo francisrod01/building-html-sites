@@ -1,0 +1,17 @@
+{
+  "name": "one-million-lines",
+  "version": "0.0.1",
+  "description": "Maker-Based website using HTML5 & CSS3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "makerbased",
+    "html5",
+    "css3",
+    "frontend"
+  ],
+  "author": "Francis Rodrigues",
+  "license": "MIT"
+}
