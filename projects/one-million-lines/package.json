@@ -13,5 +13,8 @@
     "frontend"
   ],
   "author": "Francis Rodrigues",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
