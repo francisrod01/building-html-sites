@@ -20,6 +20,18 @@ ul.navbar-nav {
   font-size: 13px;
 }
 
+.btn-lg {
+  font-size: 2.25rem;
+}
+
+.jumbotron h1 {
+  margin-bottom: 50px;
+}
+
+.jumbotron p {
+  margin-bottom: 30px;
+}
+
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
