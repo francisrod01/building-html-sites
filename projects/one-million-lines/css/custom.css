@@ -24,6 +24,11 @@ ul.navbar-nav {
   font-size: 2.25rem;
 }
 
+/** jumbotron box **/
+.jumbotron {
+  background-image: url('../images/hero_image.jpg');
+}
+
 .jumbotron h1 {
   margin-bottom: 50px;
 }
