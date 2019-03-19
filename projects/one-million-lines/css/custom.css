@@ -27,6 +27,7 @@ ul.navbar-nav {
 /** jumbotron box **/
 .jumbotron {
   background-image: url('../images/hero_image.jpg');
+  color: #ffffff;
 }
 
 .jumbotron h1 {
@@ -35,6 +36,9 @@ ul.navbar-nav {
 
 .jumbotron p {
   margin-bottom: 30px;
+  padding: 0 50px;
+  font-size: 1.25em;
+  font-weight: 400;
 }
 
 @media (min-width: 768px) {
