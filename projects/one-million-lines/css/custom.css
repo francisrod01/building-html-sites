@@ -12,8 +12,12 @@ body {
   user-select: none;
 }
 
-.btn-lg {
-  font-size: 2.25rem;
+ul.navbar-nav, .jumbotron h1 {
+  font-family: 'Arvo', Courier, serif;
+}
+
+ul.navbar-nav {
+  font-size: 13px;
 }
 
 @media (min-width: 768px) {
