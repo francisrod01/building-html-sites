@@ -46,6 +46,12 @@ ul.navbar-nav {
   color: #e74c3c;
 }
 
+.homepage hr {
+  margin-top: 15px;
+  border-top: 1px solid #e74c3c;
+  width: 160px;
+}
+
 .homepage h2, .homepage h3 {
   font-family: 'Arvo', Courier, serif;
   text-transform: uppercase;
