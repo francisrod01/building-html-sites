@@ -41,6 +41,34 @@ ul.navbar-nav {
   font-weight: 400;
 }
 
+/** Homepage **/
+.homepage a {
+  color: #e74c3c;
+}
+
+.homepage h2, .homepage h3 {
+  font-family: 'Arvo', Courier, serif;
+  text-transform: uppercase;
+  color: #e74c3c;
+}
+
+.homepage h3 {
+  font-size: 30px;
+}
+
+.homepage h3 {
+  font-size: 26px;
+}
+
+.homepage p {
+  font-weight: 300;
+  font-size: 21px;
+}
+
+.homepage .fa-stack {
+  margin: 20px 0;
+}
+
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
