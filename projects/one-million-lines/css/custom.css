@@ -41,7 +41,15 @@ ul.navbar-nav {
   font-weight: 400;
 }
 
+#get-involved {
+  background-color: #f5f5f5;
+}
+
 /** Homepage **/
+.homepage {
+  padding: 30px;
+}
+
 .homepage a {
   color: #e74c3c;
 }
@@ -64,7 +72,8 @@ ul.navbar-nav {
   color: #e74c3c;
 }
 
-.homepage h3 {
+.homepage h2 {
+  padding-top: 15px;
   font-size: 30px;
 }
 
@@ -78,15 +87,8 @@ ul.navbar-nav {
 }
 
 .homepage .fa-stack {
-  margin: 20px 0;
-}
-
-.who-we-are {
-  margin: 15px auto;
-  padding: 15px 0;
-}
-.who-we-are h2 {
-  margin: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 @media (min-width: 768px) {
