@@ -69,6 +69,14 @@ ul.navbar-nav {
   margin: 20px 0;
 }
 
+.who-we-are {
+  margin: 15px auto;
+  padding: 15px 0;
+}
+.who-we-are h2 {
+  margin: 20px;
+}
+
 @media (min-width: 768px) {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
